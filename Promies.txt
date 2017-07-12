@@ -1,0 +1,21 @@
+April 27th
+
+http://slides.com/devleague/promises/live
+
+What is a callback?
+  function you call into another function.
+
+Callback hell
+  -functions within functions within functions.
+  -many layers.
+
+How to solve Callback Hell?
+  -Promises!
+    -Pending(not fulfilled or rejected)
+    -Fulfilled(completed)
+    -Rejected(error)
+
+Callback Hell - http://callbackhell.com/
+MDN - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+Great Talk on Promises - https://www.youtube.com/watch?v=qbKWsbJ76-s
+Sequelize - http://docs.sequelizejs.com/en/latest/
